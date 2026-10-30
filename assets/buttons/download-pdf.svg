@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="252" height="64" viewBox="0 0 252 64" role="img" aria-labelledby="title">
-  <title id="title">Download PDF</title>
-  <rect x="1" y="1" width="250" height="62" rx="12" fill="#111111"/>
-  <text x="126" y="40" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600">Download PDF</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80" role="img" aria-labelledby="title">
+  <title id="title">Download</title>
+  <rect x="1.5" y="1.5" width="317" height="77" rx="10" fill="#111111"/>
+  <text x="160" y="50" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Download</text>
 </svg>
