@@ -1,10 +1,10 @@
 # My CV
-Francesco Maria Fuligni
+Francesco Maria Fuligni's Curriculum Vitae
 
 <p align="center">
-  <a href="https://github.com/francescofuligni/cv/raw/refs/heads/main/Francesco_Maria_Fuligni_CV.pdf?download=1"><img src="https://img.shields.io/static/v1?label=&amp;message=Download%20PDF&amp;color=2563EB&amp;style=for-the-badge" alt="Download PDF"></a>
-  &nbsp;
-  <a href="https://bento.me/fula"><img src="https://img.shields.io/static/v1?label=&amp;message=My%20Links&amp;color=6B7280&amp;style=for-the-badge" alt="My Links"></a>
+  <a href="https://github.com/francescofuligni/cv/raw/refs/heads/main/Francesco_Maria_Fuligni_CV.pdf?download=1"><img src="assets/buttons/download-pdf.svg" width="252" height="64" alt="Download PDF"></a>
+  &nbsp;&nbsp;
+  <a href="https://bento.me/fula"><img src="assets/buttons/my-links.svg" width="184" height="64" alt="My Links"></a>
 </p>
 
 ---
