@@ -1,2 +1,2 @@
 # cv
-Curriculum Vitae (EN)
+Francesco Maria Fuligni's Curriculum Vitae (EN)
