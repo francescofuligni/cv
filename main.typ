@@ -34,14 +34,6 @@
   photo: "../figures/cv_photo.jpg",
 )
 
-== Profile
-#pad(
-  top: 0.15em,
-  [
-    Curious about what lies beneath the surface of intelligent systems, I'm especially interested in how AI agents coordinate, where they fail, and what makes them trustworthy. I enjoy asking precise questions and turning rigorous inquiry into responsible technology with real-world value.
-  ],
-)
-
 == Education
 #resume.edu(
   degree: "MSc in Computer Science",
@@ -65,7 +57,7 @@
 )
 #pad(
   top: 0.15em,
-  [Thesis: Organizational implications of the NIS2 Directive and the CISO's role in implementation.],
+  [Thesis: Organizational Implications of the NIS2 Directive: The Support of International Standards and the Strategic Role of the CISO in Implementing the Regulation],
 )
 
 #resume.edu(
@@ -94,11 +86,9 @@
 #pad(
   top: 0.15em,
   [
-    *Programming:* Java, JavaFX, JavaScript, TypeScript, Python, C++, MATLAB, PHP, Mathematica \
-    *Frameworks & tools:* React, Node.js, AdonisJS, PyTorch, Jupyter \
-    *Data:* MySQL, SQL/XML, XQuery, Data Warehousing, Data Mining \
-    *AI & imaging:* Machine Learning, Deep Learning, CNNs, RNNs, Transformers, Generative Models, Computer Vision \
-    *Digital forensics:* Evidence acquisition, preservation and analysis; chain of custody; device, network and cloud forensics \
+    *Programming:* Java, JavaScript, TypeScript, Python, C++, MATLAB, PHP, Mathematica \
+    *Frameworks & tools:* JavaFX, React, Node.js, AdonisJS, PyTorch, Jupyter \
+    *Data technologies:* MySQL, SQL/XML, XQuery \
     *Core strengths:* Problem-solving, teamwork, leadership, adaptability
   ],
 )
