@@ -59,7 +59,7 @@
   body
 }
 
-#let header(name: none, contacts: none, contacts-second: (), photo: none, position: center) = {
+#let header(name: none, contacts: none, contacts-second: (), photo: none) = {
   let contact-line = (items) => items.map(((url, label, icon)) => {
     let contact = [#box(image(icon, width: 8pt, height: 8pt)) #h(3pt) #label]
     if url == none {
@@ -117,24 +117,3 @@
     section-header(degree, date, subtitle, location: location)
   )
 }
-
-#let project(name: none, technologies: none, live-url: none, repo-url: none, details: none) = {
-  let links = ()
-  if live-url != none {
-    links.push(link(live-url)[*Live*])
-  }
-  if repo-url != none {
-    links.push(link(repo-url)[*GitHub*])
-  }
-
-  pad(
-    top: padding-top,
-    grid(columns: (1fr, auto),
-    [
-      *#name* | #technologies.map(it => emph(it)).join(", ")
-    ],
-    align(right, links.join(" | ")))
-  )
-  details
-}
-
