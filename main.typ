@@ -42,7 +42,7 @@
 
 == Education
 #resume.edu(
-  degree: "MSc in Computer Science",
+  degree: "Master in Computer Science",
   date: "2025 – Present",
   institution: "University of Bologna",
   location: "Bologna, Italy",
@@ -55,7 +55,7 @@
 )
 
 #resume.edu(
-  degree: "BSc in Computer Science for Management",
+  degree: "Bachelor in Information Science for Management",
   date: "2022 – 2025",
   institution: "University of Bologna",
   grade: "110/110 cum laude",
@@ -102,5 +102,6 @@
 )
 
 == Languages
-#pad(top: 0.15em, [*English:* C1 | IELTS Academic 8.0, November 2025])
+#pad(top: 0.15em, [*Italian:* Native \
+*English:* C1 | IELTS Academic 8.0, November 2025])
 
