@@ -4,7 +4,7 @@
 #let email = "francescofuligni20@gmail.com"
 #let github = "https://github.com/francescofuligni"
 #let linkedin = "https://www.linkedin.com/in/francesco-fuligni"
-#let website = "https://bento.me/fula"
+#let website = "https://linktr.ee/francescofuligni"
 
 #show: resume.resume.with(
   author: name,
@@ -29,9 +29,15 @@
   contacts-second: (
     (github, "GitHub", "../figures/icons/github.svg"),
     (linkedin, "LinkedIn", "../figures/icons/linkedin.svg"),
-    (website, "bento.me/fula", "../figures/icons/bento.svg"),
+    (website, "Linktree", "../figures/icons/linktree.svg"),
   ),
   photo: "../figures/cv_photo.jpg",
+)
+
+== Profile
+#pad(
+  top: 0.15em,
+  [Interested in how organisations can use AI and data responsibly and securely, I focus on the intersection of technology, governance, organisational decision-making and policy. I aim to help shape trustworthy digital systems by translating complex technical and regulatory requirements into practical solutions.],
 )
 
 == Education
@@ -86,9 +92,11 @@
 #pad(
   top: 0.15em,
   [
-    *Programming:* Java, JavaScript, TypeScript, Python, C++, MATLAB, PHP, Mathematica \
-    *Frameworks & tools:* JavaFX, React, Node.js, AdonisJS, PyTorch, Jupyter \
-    *Data technologies:* MySQL, SQL/XML, XQuery \
+    *Programming:* Java, Kotlin, Python, JavaScript, TypeScript, C++, PHP, MATLAB, Mathematica \
+    *Frameworks:* Spring Boot, Angular, React, Node.js, AdonisJS, GWT, JavaFX, Android SDK, Jolie, Leaflet, RxJS \
+    *Databases:* MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Room, SQL/XML, XQuery \
+    *Libraries:* TensorFlow, PyTorch, scikit-learn, NumPy, pandas, SciPy, Matplotlib, seaborn, OR-Tools, Gymnasium, PettingZoo, Stable-Baselines3, SuperSuit, ASTRA Toolbox \
+    *Tools:* Git, GitHub, Docker, Docker Compose, Maven, Gradle, Vite, Tailwind CSS, TanStack Start, Jupyter, Google Colab, LaTeX \
     *Core strengths:* Problem-solving, teamwork, leadership, adaptability
   ],
 )
