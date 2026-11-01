@@ -31,7 +31,7 @@
     (linkedin, "LinkedIn", "../figures/icons/linkedin.svg"),
     (website, "Linktree", "../figures/icons/linktree.svg"),
   ),
-  photo: "../figures/cv_photo.jpg",
+  photo: "../figures/cv_photo_circle.png",
 )
 
 == Profile

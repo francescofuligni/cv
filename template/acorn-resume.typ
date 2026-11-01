@@ -78,11 +78,11 @@
     align(left, heading)
   } else {
     grid(
-      columns: (1fr, 56pt),
+      columns: (1fr, 86pt),
       gutter: 10pt,
       align: (left, right),
       align(left, heading),
-      align(bottom + right, image(photo, width: 52pt, height: 66pt, fit: "cover")),
+      align(bottom + right, image(photo, width: 80pt, height: 80pt, fit: "cover")),
     )
   }
 }
