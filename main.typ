@@ -37,7 +37,7 @@
 == Profile
 #pad(
   top: 0.15em,
-  [Interested in how organisations can use AI and data responsibly and securely, I focus on the intersection of technology, governance, organisational decision-making and policy. I aim to help shape trustworthy digital systems by translating complex technical and regulatory requirements into practical solutions.],
+  [I focus on the responsible and secure use of AI and data at the intersection of technology, governance and policy. I aim to translate complex technical and regulatory requirements into practical solutions for organisations.],
 )
 
 == Education
@@ -84,6 +84,7 @@
     - Developed and maintained frontend and backend features for Olio's e-commerce management system across order processing, administration, and warehouse workflows
     - Integrated Linear and automotive parts supplier APIs, automated data exchange, and built backend controllers and services
     - Improved database query performance with indexing and data cleanup; built warehouse tracking and ticket management interfaces, improving usability and surfacing business statistics
+    - Collaborated with IT specialists and administrative staff to plan software improvements
     - *Tech Stack:* JavaScript, Node.js, AdonisJS
   ],
 )
@@ -93,10 +94,10 @@
   top: 0.15em,
   [
     *Programming:* Java, Kotlin, Python, JavaScript, TypeScript, PHP, SQL \
-    *Frameworks:* Spring Boot, Angular, React \
-    *Databases:* PostgreSQL, MariaDB, SQLite \
-    *Libraries:* TensorFlow, PyTorch, scikit-learn, NumPy, pandas, SciPy, Matplotlib \
-    *Tools:* Git, GitHub, Docker, Camunda, Google Colab \
+    *Frameworks:* Spring Boot, Angular, React, AdonisJS, Tailwind CSS \
+    *Databases:* PostgreSQL, MariaDB, SQLite, MongoDB, Redis \
+    *Libraries:* TensorFlow, Keras, PyTorch, scikit-learn, NumPy, pandas, SciPy, Matplotlib \
+    *Tools:* Git, GitHub, Docker, Node.js, Linear, Camunda, Google Colab \
     *Core strengths:* Critical thinking, problem-solving, communication, teamwork, leadership, adaptability
   ],
 )
