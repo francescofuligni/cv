@@ -92,16 +92,16 @@
 #pad(
   top: 0.15em,
   [
-    *Programming:* Java, Kotlin, Python, JavaScript, TypeScript, C++, PHP, MATLAB, Mathematica \
-    *Frameworks:* Spring Boot, Angular, React, Node.js, AdonisJS, GWT, JavaFX, Android SDK, Jolie, Leaflet, RxJS \
-    *Databases:* MySQL, MariaDB, PostgreSQL, MongoDB, Redis, Room, SQL/XML, XQuery \
-    *Libraries:* TensorFlow, PyTorch, scikit-learn, NumPy, pandas, SciPy, Matplotlib, seaborn, OR-Tools, Gymnasium, PettingZoo, Stable-Baselines3, SuperSuit, ASTRA Toolbox \
-    *Tools:* Git, GitHub, Docker, Docker Compose, Maven, Gradle, Vite, Tailwind CSS, TanStack Start, Jupyter, Google Colab, LaTeX \
-    *Core strengths:* Problem-solving, teamwork, leadership, adaptability
+    *Programming:* Java, Kotlin, Python, JavaScript, TypeScript, PHP, SQL \
+    *Frameworks:* Spring Boot, Angular, React \
+    *Databases:* PostgreSQL, MariaDB, SQLite \
+    *Libraries:* TensorFlow, PyTorch, scikit-learn, NumPy, pandas, SciPy, Matplotlib \
+    *Tools:* Git, GitHub, Docker, Camunda, Google Colab \
+    *Core strengths:* Critical thinking, problem-solving, communication, teamwork, leadership, adaptability
   ],
 )
 
 == Languages
 #pad(top: 0.15em, [*Italian:* Native \
-*English:* C1 | IELTS Academic 8.0, November 2025])
+*English:* C1 | IELTS Academic 8.0, Nov 2025])
 
